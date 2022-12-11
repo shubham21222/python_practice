@@ -1,0 +1,5 @@
+tuple1=(25,10,25.5,"star wars")
+epic=tuple((25,10,11,0.75,"thor"))
+print(epic,tuple1)
+type1=tuple1.index(0)
+print("value",type)
