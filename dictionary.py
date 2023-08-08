@@ -1,3 +1,5 @@
+#how to work with dictionaries in Python, including accessing keys and values, iterating through dictionaries, updating values, adding new key-value pairs, and removing keys. 
+
 dict1={"name":"shubham","class":"bca","subject":"maths",}
 dict2={1:"23",2:"25",3:"26",3:"27"}
 print(dict1)
