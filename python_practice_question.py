@@ -1,3 +1,4 @@
+#qus :- write a python program that creates a sequence of alternating positive and negative terms
 var1=1
 n=int(input("enter number of terms: "))
 list=[var1]
