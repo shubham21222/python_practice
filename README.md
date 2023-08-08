@@ -1,10 +1,9 @@
-# practice\
-
 <h1>Hello</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 hey there 
+
 # Python Basic Programs Repository
 
 Welcome to the "python_practice" repository! This repository contains a collection of basic Python programs to help you learn and practice fundamental programming concepts.
