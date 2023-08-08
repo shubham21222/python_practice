@@ -1,3 +1,4 @@
+#qus:- write a calculator program that performs arithmetic operations on two numbers using do while loop.
 def calculator():
 	print("Welcome to My Calculator")
 	var1 = int(input("Enter Value1 : "))
