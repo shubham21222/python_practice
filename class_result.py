@@ -1,3 +1,5 @@
+#qus:- write a python program for class result which takes name and 4 subject marks as input and gives it result as output.
+
 def getStudentDetails():
     
         students = []
