@@ -1,3 +1,6 @@
+#qus:- write a python program for construct a calculator which is taking arithmatic operation with user.
+
+
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
