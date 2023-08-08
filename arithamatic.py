@@ -1,3 +1,5 @@
+#qus :- write a basic calculto program which is perform operations with two variables.
+
 def calc():
     print("welcome to my calculator")
     var1 = float(input("Enter Value1 : "))
