@@ -1,3 +1,4 @@
+#qus:- write a python program which take stdent name and marks as a input and short it and gives student result as output.
 class Student:
     def getMarks(self):
         number_of_students = int(input("please enter the number of students : "))
