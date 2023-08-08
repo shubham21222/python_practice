@@ -1,3 +1,5 @@
+#qus:- write a python program for split a user-input sentence into individual words and display both the original sentence and the list of words. 
+
 var1=input("enter value:")
 word_list=[]
 temp_word=""
