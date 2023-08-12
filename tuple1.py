@@ -1,3 +1,4 @@
+#qus:- simple tuple practice question
 tuple1=(25,10,25.5,"star wars")
 epic=tuple((25,10,11,0.75,"thor"))
 print(epic,tuple1)
